@@ -1,1 +1,1 @@
-# Analytics-Vidya-Competition-Problem-Statement-Solution
+# Analytics-Vidya-Competition-Problem-Statements--Solutions
